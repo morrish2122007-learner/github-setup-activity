@@ -1,0 +1,6 @@
+Name: Morrish
+Register Number: 922525106202
+Department: ECE
+Year: I
+
+This is my first GitHub repository.
